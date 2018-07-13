@@ -1,0 +1,226 @@
+a{
+				text-decoration: none;
+			}
+			.button1 button a{
+				color: white;
+			}
+			.button1 button:nth-child(1) a{
+				color: black;
+			}
+			}.button3 button a{
+				color: white;
+			}
+			.button3 button:nth-child(1) a{
+				color: black;
+			}
+			.button1 button:nth-child(1){
+				border-radius:5px;
+				border: 1px solid lightgrey;
+				border-style:solid;
+				text-align: center;
+				background-color: white;
+				width: 80px;
+				height: 30px;
+			}
+		    
+			.button1 button:nth-child(2){
+				border-radius:5px;
+				border-style:none;
+				text-align: center;
+				background-color: deepskyblue;
+				width: 80px;
+				height: 30px;
+			}
+			.button1 button:nth-child(3){
+				border-radius:5px;
+				border-style:none;
+				text-align: center;
+				background-color: limegreen;
+				width: 80px;
+				height: 30px;
+			}
+			.button1 button:nth-child(4){
+				border-radius:5px;
+				border-style:none;
+				text-align: center;
+				background-color: gray;
+				width: 80px;
+				height: 30px;
+			}
+			.button1 button:nth-child(5){
+				border-radius:5px;
+				border-style:none;
+				text-align: center;
+				background-color: orange;
+				width: 80px;
+				height: 30px;
+			}
+			.button1 button:nth-child(6){
+				border-radius:5px;
+				border-style:none;
+				text-align: center;
+				background-color: #F76809;
+				width: 80px;
+				height: 30px;
+			}
+			
+			.button2 button:nth-child(1){
+				border-radius:5px;
+				border: 1px solid lightgrey;
+				text-align: center;
+				background-color: white;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(1) a{
+				color: black;
+			}
+			.button2 button:nth-child(2){
+				border-radius:5px;
+				border:1px solid  deepskyblue;
+				text-align: center;
+				background-color: #C4E6E6;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(2):hover{
+				border-style:none;
+				text-align: center;
+				background-color: deepskyblue;
+			}
+			.button2 button:nth-child(2) a{
+				color: deepskyblue;
+				}
+			.button2 button:nth-child(2) a,button:hover{
+			     color: white;
+				}
+			.button2 button:nth-child(3){
+				border-radius:5px;
+				border:1px solid limegreen; 
+				text-align: center;
+				background-color:#CBFAC0 ;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(3):hover{
+				border-style:none;
+				text-align: center;
+				background-color: limegreen;
+			}
+			.button2 button:nth-child(3) a{
+				color: limegreen;
+				}
+			.button2 button:nth-child(3) a,button:hover{
+			     color: white;
+				}
+			.button2 button:nth-child(4){
+				border-radius:5px;
+				border: 1px solid gray;
+				text-align: center;
+				background-color: #F6F7F7;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(4):hover{
+				border-style:none;
+				text-align: center;
+				background-color: gray;
+			}
+			.button2 button:nth-child(4) a{
+				color: gray;
+				}
+			.button2 button:nth-child(4) a,button:hover{
+			     color: white;
+				}
+			.button2 button:nth-child(5){
+				border-radius:5px;
+				border:1px solid orange;
+				text-align: center;
+				background-color: #FFFFBB;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(5):hover{
+				border-style:none;
+				text-align: center;
+				background-color: orange;
+			}
+			.button2 button:nth-child(5) a{
+				color: orange;
+			}
+			.button2 button:nth-child(5) a,button:hover{
+				color: white;
+			}
+			.button2 button:nth-child(6){
+				border-radius:5px;
+			    border: 1px solid #F76809;
+				text-align: center;
+				background-color: #FCE0EB;
+				width: 80px;
+				height: 30px;
+			}
+			.button2 button:nth-child(6):hover{
+				border-style:none;
+				text-align: center;
+				background-color: #F76809;
+			}
+			.button2 button:nth-child(6) a{
+				color: #F76809;
+			}
+			.button2 button:nth-child(6) a,button:hover{
+				color: white;
+			}
+			
+			.button3 button:nth-child(1){
+				border-radius:20px;
+				border: 1px solid lightgrey;
+				border-style:solid;
+				text-align: center;
+				background-color: white;
+				width: 80px;
+				height: 30px;
+			}
+		    
+			.button3 button:nth-child(2){
+				border-radius:20px;
+				border-style:none;
+				text-align: center;
+				background-color: deepskyblue;
+				width: 80px;
+				height: 30px;
+			}
+			.button3 button:nth-child(3){
+				border-radius:20px;
+				border-style:none;
+				text-align: center;
+				background-color: limegreen;
+				width: 80px;
+				height: 30px;
+			}
+			.button3 button:nth-child(4){
+				border-radius:20px;
+				border-style:none;
+				text-align: center;
+				background-color: gray;
+				width: 80px;
+				height: 30px;
+			}
+			.button3 button:nth-child(5){
+				border-radius:20px;
+				border-style:none;
+				text-align: center;
+				background-color: orange;
+				width: 80px;
+				height: 30px;
+			}
+			.button3 button:nth-child(6){
+				border-radius:20px;
+				border-style:none;
+				text-align: center;
+				background-color: #F76809;
+				width: 80px;
+				height: 30px;
+			}
+			.button1,.button2,.button3{
+				margin:10px 20px;
+			}
